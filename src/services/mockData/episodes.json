@@ -1,0 +1,218 @@
+[
+  {
+    "Id": 1,
+    "title": "Tech Talk Tuesday - AI Revolution",
+    "theme": "Exploring the latest developments in artificial intelligence and machine learning, covering breakthrough technologies, ethical considerations, and real-world applications that are transforming industries.",
+    "audience": "professionals",
+    "tone": "news",
+    "segments": [
+      {
+        "Id": 1,
+        "title": "AI News Roundup",
+        "duration": 8,
+        "talkingPoints": [
+          "Latest AI breakthrough announcements from major tech companies",
+          "Government regulatory updates on AI usage",
+          "Impact on job markets and workforce transformation"
+        ],
+        "order": 1,
+        "type": "content"
+      },
+      {
+        "Id": 2,
+        "title": "Machine Learning in Healthcare",
+        "duration": 12,
+        "talkingPoints": [
+          "AI-powered diagnostic tools improving patient outcomes",
+          "Privacy concerns and data security in medical AI",
+          "Success stories from leading medical institutions"
+        ],
+        "order": 2,
+        "type": "content"
+      },
+      {
+        "Id": 3,
+        "title": "Ethics in AI Development",
+        "duration": 10,
+        "talkingPoints": [
+          "Bias in AI algorithms and mitigation strategies",
+          "Transparency and explainable AI principles",
+          "Industry standards and best practices"
+        ],
+        "order": 3,
+        "type": "content"
+      },
+      {
+        "Id": 4,
+        "title": "Future Predictions Panel",
+        "duration": 15,
+        "talkingPoints": [
+          "Expert predictions for AI development in next 5 years",
+          "Emerging technologies to watch",
+          "Preparation strategies for businesses and individuals"
+        ],
+        "order": 4,
+        "type": "content"
+      },
+      {
+        "Id": 5,
+        "title": "Listener Q&A",
+        "duration": 12,
+        "talkingPoints": [
+          "Answering audience questions about AI careers",
+          "Practical advice for learning AI technologies",
+          "Resources for staying updated on AI trends"
+        ],
+        "order": 5,
+        "type": "content"
+      }
+    ],
+    "totalDuration": 57,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T14:20:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Morning Laughs Comedy Hour",
+    "theme": "Light-hearted comedy show featuring funny stories, listener jokes, and comedic commentary on daily life situations to brighten up the morning commute.",
+    "audience": "general",
+    "tone": "comedy",
+    "segments": [
+      {
+        "Id": 6,
+        "title": "Comedy News Headlines",
+        "duration": 10,
+        "talkingPoints": [
+          "Funny takes on recent news events",
+          "Absurd headlines from around the world",
+          "Celebrity mishaps and social media fails"
+        ],
+        "order": 1,
+        "type": "content"
+      },
+      {
+        "Id": 7,
+        "title": "Listener Joke Corner",
+        "duration": 8,
+        "talkingPoints": [
+          "Best jokes submitted by listeners",
+          "Dad jokes and puns of the day",
+          "Interactive comedy games with callers"
+        ],
+        "order": 2,
+        "type": "content"
+      },
+      {
+        "Id": 8,
+        "title": "Embarrassing Moments",
+        "duration": 12,
+        "talkingPoints": [
+          "Hilarious personal stories from hosts",
+          "Listener-submitted embarrassing moments",
+          "Workplace comedy and office blunders"
+        ],
+        "order": 3,
+        "type": "content"
+      },
+      {
+        "Id": 9,
+        "title": "Comedy Sketch Time",
+        "duration": 15,
+        "talkingPoints": [
+          "Original comedy sketches and characters",
+          "Parodies of popular TV shows and movies",
+          "Interactive improv with audience participation"
+        ],
+        "order": 4,
+        "type": "content"
+      },
+      {
+        "Id": 10,
+        "title": "Funny Predictions",
+        "duration": 10,
+        "talkingPoints": [
+          "Humorous predictions for the day ahead",
+          "Ridiculous weather and traffic reports",
+          "Comedy horoscopes and life advice"
+        ],
+        "order": 5,
+        "type": "content"
+      }
+    ],
+    "totalDuration": 55,
+    "createdAt": "2024-01-10T08:15:00.000Z",
+    "updatedAt": "2024-01-12T09:45:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Wellness Wednesday",
+    "theme": "Focusing on mental health, physical wellness, and work-life balance with practical tips, expert interviews, and listener success stories for a healthier lifestyle.",
+    "audience": "young-adults",
+    "tone": "lifestyle",
+    "segments": [
+      {
+        "Id": 11,
+        "title": "Mindfulness Moment",
+        "duration": 8,
+        "talkingPoints": [
+          "Guided meditation and breathing exercises",
+          "Benefits of mindfulness in daily routines",
+          "Simple techniques for stress reduction"
+        ],
+        "order": 1,
+        "type": "content"
+      },
+      {
+        "Id": 12,
+        "title": "Fitness Focus",
+        "duration": 12,
+        "talkingPoints": [
+          "Home workout routines for busy schedules",
+          "Nutrition tips and healthy meal planning",
+          "Exercise motivation and goal setting"
+        ],
+        "order": 2,
+        "type": "content"
+      },
+      {
+        "Id": 13,
+        "title": "Work-Life Balance Tips",
+        "duration": 10,
+        "talkingPoints": [
+          "Setting boundaries with work and technology",
+          "Time management strategies for productivity",
+          "Creating healthy workplace habits"
+        ],
+        "order": 3,
+        "type": "content"
+      },
+      {
+        "Id": 14,
+        "title": "Guest Expert Interview",
+        "duration": 15,
+        "talkingPoints": [
+          "Interview with wellness professional or life coach",
+          "Evidence-based approaches to mental health",
+          "Practical advice for common wellness challenges"
+        ],
+        "order": 4,
+        "type": "content"
+      },
+      {
+        "Id": 15,
+        "title": "Success Stories",
+        "duration": 12,
+        "talkingPoints": [
+          "Listener transformations and achievements",
+          "Overcoming obstacles and setbacks",
+          "Building sustainable healthy habits"
+        ],
+        "order": 5,
+        "type": "content"
+      }
+    ],
+    "totalDuration": 57,
+    "createdAt": "2024-01-08T15:20:00.000Z",
+    "updatedAt": "2024-01-09T11:30:00.000Z"
+  }
+]
